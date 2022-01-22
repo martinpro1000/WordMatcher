@@ -25,7 +25,7 @@ https://discord.gg/MNTWfS9pff
 
 ## Installation
 
-**Install the universal jar file here: https://www.mediafire.com/file/b3i5j1sfrlcg4ae/WordMatcher.jar/file
+**Install the universal jar file here: https://www.mediafire.com/file/b3i5j1sfrlcg4ae/WordMatcher.jar/file (java 16)
 .**
 
 Install windows .exe file: https://www.mediafire.com/file/oauxbsfpug55ig6/WordMatcher.exe/file
