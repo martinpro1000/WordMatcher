@@ -1,7 +1,7 @@
 
 # WordMatcher™
 
-WordMatcher will check all the files in the directory, or just a single file and give you a number of the given word it cointains!
+WordMatcher will check all the files in the directory, or just a single file and give you an ouput number of the specified word containing
 
 
 
