@@ -1,4 +1,29 @@
-# WordMatcher
-This will check all the files in the directory, or just a single file and give you a number of the given word it cointains!
 
-**HERE IS A JAR FILE: https://www.mediafire.com/file/b3i5j1sfrlcg4ae/WordMatcher.jar/file**
+# WordMatcher.jar™
+
+WordMatcher will check all the files in the directory, or just a single file and give you a number of the given word it cointains!
+
+
+
+## Support
+
+For support, DM me on __**github**__ or join our discord server:
+https://discord.gg/MNTWfS9pff
+.
+
+
+## Features
+
+- You can use it as one file or the hole directory!
+- Cross platform
+
+
+## Authors
+
+- [@martinpro1000](https://www.github.com/martinpro1000)
+
+
+## Installation
+
+**Install the offical jar file: https://www.mediafire.com/file/b3i5j1sfrlcg4ae/WordMatcher.jar/file
+.**
