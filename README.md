@@ -1,5 +1,5 @@
 
-# WordMatcher.jar™
+# WordMatcher™
 
 WordMatcher will check all the files in the directory, or just a single file and give you a number of the given word it cointains!
 
@@ -25,5 +25,5 @@ https://discord.gg/MNTWfS9pff
 
 ## Installation
 
-**Install the offical jar file: https://www.mediafire.com/file/b3i5j1sfrlcg4ae/WordMatcher.jar/file
+**Install the offical WordMatcher.jar file here: https://www.mediafire.com/file/b3i5j1sfrlcg4ae/WordMatcher.jar/file
 .**
